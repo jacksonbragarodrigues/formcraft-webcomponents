@@ -7,7 +7,7 @@ const App: React.FC = () => {
   const [data] = React.useState(JSON.stringify({
     wizardSteps: [
     {
-        "id": "step_1754156122258",
+        "id": "step_1754162098311",
         "type": "step",
         "title": "Step 1",
         "description": "",
